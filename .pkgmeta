@@ -1,0 +1,4 @@
+package-as: MountJournal_Favorites
+ignore:
+    - README.md
+

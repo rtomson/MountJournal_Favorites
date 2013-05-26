@@ -1,4 +1,6 @@
-MountJournal_Favorites
-======================
+##MountJournal Favorites##
+MountJournal Favorites adds a favorites interface to your MountJournal.
 
-Adds a favorites interface to the MountJournal.
+##Features##
+* Quickly access your favorite mounts.
+* Mount a random favorite with a convenient macro button.
